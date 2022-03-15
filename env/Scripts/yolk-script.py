@@ -1,4 +1,4 @@
-#!c:\users\aaron\projects\recruiter_flow\env\scripts\python.exe
+#!c:\users\aaron\projects\sctu_common\env\scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'yolk3k==0.9','console_scripts','yolk'
 __requires__ = 'yolk3k==0.9'
 import re
